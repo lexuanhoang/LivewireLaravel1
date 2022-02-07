@@ -20,6 +20,7 @@
         @livewireStyles
     </head>
     <body>
+        LEXUANHOANG
         <div class="container mx-auto">
             <h1 class="text-3xl text-center my-10">Users</h1>
             <livewire:users-table>
